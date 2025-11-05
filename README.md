@@ -16,7 +16,7 @@ This workflow automates the entire LinkedIn content creation process:
 <img width="1647" height="657" alt="image" src="https://github.com/user-attachments/assets/61ec4ffa-bc6c-4e7e-8280-31618bc889b2" />
 
 
-##Certificate by outskill
+##  Certificate by outskill
 <img width="747" height="465" alt="image" src="https://github.com/user-attachments/assets/18c4af16-8270-4199-b8e5-0064aa64963b" />
 
 
@@ -337,5 +337,6 @@ For issues or questions:
 **Version**: 1.0  
 **Last Updated**: 2024  
 **Platform**: Make.com (eu2.make.com)
+
 
 
